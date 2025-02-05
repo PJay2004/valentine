@@ -103,7 +103,7 @@ export default function Home() {
         ) : (
           <>
             <p className="text-red-500 font-bold text-3xl md:text-4xl text-center">
-              Name Here
+              ♡ Januuuukiii ♡
             </p>
             <p className="text-red-500 font-bold text-3xl md:text-4xl text-center">
               ♡ Will you be my Valentine? ♡
